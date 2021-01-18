@@ -15,3 +15,16 @@
 
 //import auch in weitere _.scss files, z.B. typography.scss
 
+
+//als Inheritance 
+//.beispiel-section (
+    //background: lighten(map-get($colors, main), 72%);
+    //padding: $size-default * 2;
+    //box-shadow: $size-tiny $size-tiny $size-tiny / 2 black;
+    //}
+
+//.beispiel-1 {
+    //@extend .beispiel-section;
+    //margin 0;
+    //}
+

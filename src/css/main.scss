@@ -1,22 +1,18 @@
-@import "variables";
-@import "base";
-@import "components/hero";
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
 
-@import "components/header_Startseite";
-@import "components/header_subpage";
+@import "base/animations";
+@import "base/base";
+@import "base/tyopography";
+@import "base/utilities";
+
 @import "components/footer";
+@import "components/button";
 
-.header_Startseite,
-.header_subpage {
-  position: relative;
-}
+@import "layout/header";
 
-.header_logo_box {
-  position: absolute;
+//@import "pages/home";
 
-.header_logo {
-  width: 35px;
-  height: 35px;
- }  
-}
+
 
