@@ -1,0 +1,32 @@
+.laden {
+    background-size: cover;
+    position: relative;
+    background-color: #E5E5E5;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item1 {
+    padding: 10px;
+    margin: 24px;
+    color: black;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 34px;
+}
+
+.item2 {
+    padding: 10px;
+    margin: 24px;
+    color: black;
+    line-height: 34px;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.item3 {
+    object-fit: cover;
+    //width: 50%;
+    position: right
+   }
