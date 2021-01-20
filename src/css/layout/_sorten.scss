@@ -1,0 +1,54 @@
+.sorten {
+    background-size: cover;
+    position: relative;
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h3 {
+    padding: 10px;
+    margin: 24px;
+    color: white;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 34px;
+    width: 100%;
+}
+
+p2 {
+    padding: 10px;
+    margin: 24px;
+    color: white;
+    line-height: 34px;
+    font-size: 14px;
+    line-height: 18px;
+    //max-width: 50%;
+}
+
+p3 {
+    padding: 10px;
+    margin: 24px;
+    color: #737373;
+    line-height: 34px;
+    font-size: 14px;
+    line-height: 18px;
+    //max-width: 50%;
+}
+
+.img {
+    object-fit: cover;
+    //width: 50%;
+    position: right;
+   }
+
+p2 {
+    padding: 10px;
+    margin: 24px;
+    color: white;
+    line-height: 34px;
+    font-size: 14px;
+    line-height: 18px;
+    //max-width: 50%;
+}
