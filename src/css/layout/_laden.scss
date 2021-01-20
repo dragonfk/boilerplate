@@ -7,7 +7,7 @@
     flex-wrap: wrap;
 }
 
-.item1 {
+.h2 {
     padding: 10px;
     margin: 24px;
     color: black;
@@ -16,17 +16,18 @@
     line-height: 34px;
 }
 
-.item2 {
+.p1 {
     padding: 10px;
     margin: 24px;
     color: black;
     line-height: 34px;
     font-size: 14px;
     line-height: 18px;
+    //max-width: 50%;
 }
 
-.item3 {
+.img {
     object-fit: cover;
     //width: 50%;
-    position: right
+    position: right;
    }
