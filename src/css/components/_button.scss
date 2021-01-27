@@ -35,5 +35,11 @@
     border: 200px;
     box-sizing: border-box;
     border-radius: 5px;
+    border: 5px solid;
     border-color: white;
+    width: auto;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
 }
